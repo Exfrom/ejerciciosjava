@@ -1,0 +1,171 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch reto6",
+            "request": "launch",
+            "mainClass": "reto6",
+            "projectName": "retospoocasa_e1e25cc6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto1",
+            "request": "launch",
+            "mainClass": "Reto1",
+            "projectName": "retospoocasa_e1e25cc6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto7",
+            "request": "launch",
+            "mainClass": "Reto7",
+            "projectName": "retospoocasa_e1e25cc6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto7",
+            "request": "launch",
+            "mainClass": "Reto7",
+            "projectName": "retospoocasa_78945b50"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ejercicio8",
+            "request": "launch",
+            "mainClass": "Ejercicio8",
+            "projectName": "retospoocasa_78945b50"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto6",
+            "request": "launch",
+            "mainClass": "reto6",
+            "projectName": "retospoocasa_78945b50"
+        },
+        {
+            "type": "java",
+            "name": "Launch reto6",
+            "request": "launch",
+            "mainClass": "reto6",
+            "projectName": "retospoocasa_484b08f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto3",
+            "request": "launch",
+            "mainClass": "Reto3",
+            "projectName": "retospoocasa_45d10f47"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto4",
+            "request": "launch",
+            "mainClass": "Reto4",
+            "projectName": "retospoocasa_45d10f47"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejercicioexito",
+            "request": "launch",
+            "mainClass": "ejercicioexito",
+            "projectName": "retospoocasa_45d10f47"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejerciciohombresvrmujeres",
+            "request": "launch",
+            "mainClass": "ejerciciohombresvrmujeres",
+            "projectName": "retospoocasa_45d10f47"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejemplo",
+            "request": "launch",
+            "mainClass": "ejemplo",
+            "projectName": "retospoo_122ed99b"
+        },
+        {
+            "name": "Electron Main",
+            "program": "${workspaceFolder}/main.js",
+            "request": "launch",
+            "runtimeExecutable": "${workspaceFolder}/node_modules/.bin/electron",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "retospoo_122ed99b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto1",
+            "request": "launch",
+            "mainClass": "Reto1",
+            "projectName": "retospoo_122ed99b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto2",
+            "request": "launch",
+            "mainClass": "Reto2",
+            "projectName": "retospoo_122ed99b"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculadora",
+            "request": "launch",
+            "mainClass": "calculadora",
+            "projectName": "retospoo_122ed99b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ciclowhile",
+            "request": "launch",
+            "mainClass": "ciclowhile",
+            "projectName": "retospoo_122ed99b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejercicio_for",
+            "request": "launch",
+            "mainClass": "ejercicio_for",
+            "projectName": "retospoo_122ed99b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejercicioexito",
+            "request": "launch",
+            "mainClass": "ejercicioexito",
+            "projectName": "retospoo_122ed99b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ejerciciohombresvrmujeres",
+            "request": "launch",
+            "mainClass": "ejerciciohombresvrmujeres",
+            "projectName": "retospoo_122ed99b"
+        }
+    ]
+}
